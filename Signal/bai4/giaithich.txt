@@ -1,0 +1,1 @@
+CTRL + Z khi khong dang ki handler la tin hieu SIGTSTP se dung chuong trinh dang chay

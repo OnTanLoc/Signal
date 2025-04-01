@@ -1,0 +1,1 @@
+do 2 process khac nhau khong dung chung tai nguyen => dung kill de gui den PID cu the

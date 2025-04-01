@@ -1,0 +1,4 @@
+neu khong con ham alam(1) 
+(trong ALARM_handler)chuong trinh de dung lai sau 1 lan chay 
+(trong main) chuong trinh se dung lai
+li do: thoi gian khong duoc thiet lap lai sau khi da dem
